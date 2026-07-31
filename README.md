@@ -139,17 +139,8 @@ plt.show()
 
 # OUTPUT:
 
-<img width="486" height="132" alt="image" src="https://github.com/user-attachments/assets/0522ae94-0841-4148-973c-7783757f4f6a" />
 
-
-<img width="497" height="487" alt="image" src="https://github.com/user-attachments/assets/80f52f5c-5474-4fb4-97f1-4e44fcdd1e11" />
-
-
-<img width="1018" height="642" alt="image" src="https://github.com/user-attachments/assets/60b1b82a-d7be-495d-8ca4-0c31a4affaec" />4
-
-
-<img width="470" height="412" alt="image" src="https://github.com/user-attachments/assets/769e27a4-47a5-4e15-be90-e61cc740385a" />
-
+<img width="562" height="996" alt="image" src="https://github.com/user-attachments/assets/3ad91988-b999-44ff-9f5d-0145808a8a90" />
 
 
 
